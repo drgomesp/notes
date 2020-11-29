@@ -1,6 +1,6 @@
 { siteTitle = "Neuron Template"
-, author = Some "John Doe"
-, siteBaseUrl = Some "https://srid.github.io/neuron-template"
+, author = Some "Daniel Ribeiro"
+, siteBaseUrl = Some "https://drgomesp.github.io/notes"
 -- List of theme colors: https://neuron.zettel.page/2014601.html
 , theme = "teal"
 -- This is used in the "edit" button
